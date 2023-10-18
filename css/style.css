@@ -1,8 +1,9 @@
 *{
-          padding: 0%;
-          margin: 0%p;
+          padding: 0;
+          margin: 0;
           box-sizing: border-box;
           font-family: 'DM Sans', sans-serif;
+          border: 0;
 }
 
 .landing {
@@ -19,13 +20,7 @@
           background-repeat: no-repeat;
           width: 100%;
 }
-      
-      .campaign-p {
-          text-align: center;
-          color: #EEB2FF;
-          padding: 10px 0px;
-          font-size: 14px;
-}
+
 .showcase {
           padding: 20px 99.6px;
 }
@@ -39,7 +34,7 @@
           padding: 0px 20px;
           position: fixed;
           width: 90%;
-          box-shadow: 0 4px 10px rgba(37, 47, 63, .1);
+         
 }
       
 .header ul {
@@ -51,8 +46,24 @@
 }
       
 .header a {
-          color: #292930;
+          color:blue;
           font-size: 15px;
           text-decoration: none;
           font-weight: 900;
 }     
+ 
+.writ-up h1{
+          padding-top: 90px 90px;
+}
+h1{
+          padding-top: 100px;
+          size: 70px 50px;
+          text-align: center;
+          color:blue;
+          font-size: 200%;
+}
+p{
+          text-decoration: black;
+          font-family: 'Times New Roman', Times, serif;
+          font-size: 700%;
+}
