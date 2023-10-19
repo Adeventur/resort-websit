@@ -46,7 +46,7 @@
 }
       
 .header a {
-          color:blue;
+          color:black;
           font-size: 15px;
           text-decoration: none;
           font-weight: 900;
@@ -66,4 +66,12 @@ p{
           text-decoration: black;
           font-family: 'Times New Roman', Times, serif;
           font-size: 700%;
+}
+h2{
+          font-size: 400%;
+          color: #ffffff;
+          text-align: center;
+}
+strong{
+color: blue;
 }
